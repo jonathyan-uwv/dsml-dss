@@ -1,14 +1,26 @@
 # DSML-DSS
 
-## Networking
+## Terraform for IaC
+### Networking
 - Vnet
-- Subnets
+- Subnets (2 public, 2 private) 
 - NAT Gateway
+- Security Groups Power BI
+- Security Groups DSS
 
+### Power BI
+- Windows VM Desktop
+- Windows VM Report Server
 
-## Power BI
+### DSS nodes
+- Linux VM Fleet Manager
 
+### Microsoft SQL Server
+- Windows VM SQL Server
 
-## DSS nodes
+## Scripts for Configuration
+- Power BI Desktop (powershell)
+- Power BI Report Server (powershell)
+- Microsoft SQL Server (powershell)
 
 
