@@ -9,7 +9,7 @@
 - Security Groups DSS
 
 ### Power BI
-- Windows VM Desktop
+- Windows VM Desktop & workplace
 - Windows VM Report Server
 
 ### DSS nodes
